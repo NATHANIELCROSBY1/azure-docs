@@ -1,0 +1,84 @@
+[
+  {
+    "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ea8b0c01-b5c7/operations/20C348ECE8880303",
+    "operationId": "20C348ECE8880303",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2020-07-02T22:34:34.2343632Z",
+      "duration": "PT21.4386268S",
+      "trackingId": "3bc8e04f-2cbc-40cd-883b-cb4b187bcc54",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Web/sites/nathanielcrosby",
+        "resourceType": "Microsoft.Web/sites",
+        "resourceName": "nathanielcrosby"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ea8b0c01-b5c7/operations/3B349AC1A790711F",
+    "operationId": "3B349AC1A790711F",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2020-07-02T22:34:12.7669783Z",
+      "duration": "PT10.8521373S",
+      "trackingId": "e0a762e2-9dac-449e-a383-512f81a8605b",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Web/serverfarms/ASP-TYETECH-a7dc",
+        "resourceType": "Microsoft.Web/serverfarms",
+        "resourceName": "ASP-TYETECH-a7dc"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ea8b0c01-b5c7/operations/97F3E02161717FA7",
+    "operationId": "97F3E02161717FA7",
+    "properties": {
+      "provisioningOperation": "Read",
+      "provisioningState": "Succeeded",
+      "timestamp": "2020-07-02T22:34:12.0724854Z",
+      "duration": "PT0.3977963S",
+      "trackingId": "3208b504-1d1e-4167-8df2-3f534ee52dc1",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/microsoft.insights/components/nathanielcrosby",
+        "resourceType": "microsoft.insights/components",
+        "resourceName": "nathanielcrosby",
+        "apiVersion": "2015-05-01"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ea8b0c01-b5c7/operations/CC11090697D59928",
+    "operationId": "CC11090697D59928",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2020-07-02T22:34:11.6485284Z",
+      "duration": "PT9.7336874S",
+      "trackingId": "30028ff9-1307-4da8-b5f4-ff0178bd138c",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/microsoft.insights/components/nathanielcrosby",
+        "resourceType": "microsoft.insights/components",
+        "resourceName": "nathanielcrosby"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/776fa2bd-ab8d-46a5-82ff-4bf682897f96/resourceGroups/TYETECH/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ea8b0c01-b5c7/operations/08586078776496312447",
+    "operationId": "08586078776496312447",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2020-07-02T22:34:34.3827941Z",
+      "duration": "PT0.103054S",
+      "trackingId": "30d086d6-4dd7-4747-8498-70c20c510c4f",
+      "statusCode": "OK",
+      "statusMessage": null
+    }
+  }
+]

@@ -1,0 +1,18 @@
+dotnet     cd myApp     Program.cs       Create your app
+In your command prompt, run the following commands:
+Command prompt
+
+Copy
+dotnet new webApp -o myWebApp --no-https
+cd myWebApp
+What do these commands mean?
+The dotnet new command creates a new application.
+The webApp parameter selects what template to use when creating your app.
+The -o parameter creates a directory named myWebApp where your app is stored.
+The --no-https flag specifies not to enable HTTPS.
+The cd myWebApp command puts you into the newly created app directory.
+What files were created?
+Several files were created in the myWebApp directory, to give you a simple web application that is ready to run.
+Startup.cs contains all the settings and configurations.
+The myWebApp/Pages directory contains some example web pages for the application.
+myWebApp.csproj defines what libraries are referenced etc.

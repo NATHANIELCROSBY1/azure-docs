@@ -1,0 +1,417 @@
+Full Schedule and Credits
+Print / Save? 
+ 
+BSIT/ASD-009B (Primary Program) 
+ panel content 
+ 
+#
+%
+ 
+ 
+Applied 
+21 
+ 
+Scheduled 
+96 
+ 
+Not Scheduled 
+3 
+GPA ? 
+3.76 
+GPA Calculator 
+Enrollment Status ? 
+Active-Full Time 
+Last Date of Attendance ? 
+Jan 23, 2020 
+Schedule and Credits
+View Course By:
+Applied
+Scheduled
+Not Scheduled
+Not Applied
+All
+
+ panel content 
+List of current and upcoming scheduled courses
+
+
+
+
+
+
+
+Start
+End
+Course ID
+Title
+Grade
+Program Requirement
+Credits
+12/17/19
+02/03/20
+SCI/220T 
+HUMAN NUTRITION
+(Lower Division)
+
+PSS General Education: Science and Technology: Physical/Biological Science
+3
+02/18/20
+03/23/20
+CIS/207T 
+INFORMATION SYSTEMS FUNDAMENTALS
+(Lower Division)
+
+Required Course of Study: Core Topics I
+3
+03/24/20
+04/27/20
+BIS/221T 
+INTRODUCTION TO COMPUTER APPLICATIONS AND SYSTEMS
+(Lower Division)
+
+PSS General Education: Additional Liberal Arts
+3
+04/28/20
+06/01/20
+CIS/291 
+PC AND DEVICE FUNDAMENTALS
+(Lower Division)
+
+PSS General Education: Interdisciplinary
+3
+06/02/20
+07/06/20
+CIS/293 
+NETWORK TROUBLESHOOTING AND SUPPORT
+(Lower Division)
+
+PSS General Education: Interdisciplinary
+3
+07/07/20
+08/10/20
+CIS/295 
+INTRODUCTION TO PC AND MOBILE OPERATING SYSTEMS
+(Lower Division)
+
+PSS General Education: Interdisciplinary
+3
+08/11/20
+09/14/20
+CIS/297 
+COMPUTER SECURITY AND OPERATIONAL SUPPORT FUNDAMENTALS
+(Lower Division)
+
+Electives
+3
+09/15/20
+10/19/20
+NTC/248 
+FOUNDATIONS OF NETWORKING
+(Lower Division)
+
+Electives
+3
+10/20/20
+11/23/20
+DAT/205 
+Communicating across the IT Organization
+(Lower Division)
+
+Electives
+3
+11/24/20
+01/11/21
+WEB/240 
+WEB DESIGN FUNDAMENTALS
+(Lower Division)
+
+Electives
+3
+01/12/21
+02/15/21
+POS/221 
+WINDOWS SERVER CONFIGURATIONS
+(Lower Division)
+
+Electives
+3
+02/16/21
+03/22/21
+CYB/100 
+Cyber Domain
+(Lower Division)
+
+Required Course of Study: Cybersecurity I
+3
+03/23/21
+04/26/21
+CYB/110 
+Foundations of Security
+(Lower Division)
+
+Required Course of Study: Cybersecurity II
+3
+04/27/21
+05/31/21
+CYB/130 
+Object-Oriented Scripting Language
+(Lower Division)
+
+Required Course of Study: Programming II
+3
+06/01/21
+07/05/21
+CYB/205 
+Infrastructure Administration
+(Lower Division)
+
+Required Course of Study: Networking I
+3
+07/06/21
+08/09/21
+MTH/219T 
+INTRODUCTION TO COLLEGE ALGEBRA
+(Lower Division)
+
+PSS General Education: Mathematics: College Algebra (STEM) I
+3
+08/10/21
+09/13/21
+MTH/220T 
+COLLEGE ALGEBRA
+(Lower Division)
+
+Proficiency Requirement: Math Proficiency
+
+PSS General Education: Mathematics: College Algebra (STEM) II
+3
+09/14/21
+10/18/21
+PRG/211 
+ALGORITHMS AND LOGIC FOR COMPUTER PROGRAMMING
+(Lower Division)
+
+Required Course of Study: Programming I
+3
+10/19/21
+11/22/21
+DAT/210 
+Data Programming Languages
+(Lower Division)
+
+Required Course of Study: Data Management I
+3
+11/23/21
+01/10/22
+DAT/305 
+Data Structures for Problem Solving
+(Upper Division)
+
+Required Course of Study: Data Management II
+3
+01/11/22
+02/14/22
+NTC/362 
+FUNDAMENTALS OF NETWORKING
+(Upper Division)
+
+Required Course of Study: Networking II
+3
+02/15/22
+03/21/22
+CMGT/400 
+INTRO TO INFORMATION ASSURANCE & SECURITY
+(Upper Division)
+
+Required Course of Study: Cybersecurity III
+3
+03/22/22
+04/25/22
+PRG/420 
+JAVA PROGRAMMING I
+(Upper Division)
+
+Upper Division Information Systems and Technology Electives
+3
+04/26/22
+05/30/22
+PRG/421 
+JAVA PROGRAMMING II
+(Upper Division)
+
+Upper Division Information Systems and Technology Electives
+3
+05/31/22
+07/04/22
+BSA/385 
+INTRO TO SOFTWARE ENGINEERING
+(Upper Division)
+
+Upper Division Information Systems and Technology Electives
+3
+07/05/22
+08/08/22
+CSS/422 
+SOFTWARE ARCHITECTURE
+(Upper Division)
+
+Upper Division Information Systems and Technology Electives
+3
+08/09/22
+09/12/22
+POS/408 
+.NET I
+(Upper Division)
+
+Upper Division Information Systems and Technology Electives
+3
+09/13/22
+10/17/22
+POS/409 
+.NET II
+(Upper Division)
+
+Upper Division Information Systems and Technology Electives
+3
+10/18/22
+11/21/22
+BSA/375 
+FUNDAMENTALS OF BUSINESS SYSTEMS DEVELOPMENT
+(Upper Division)
+
+Required Course of Study: Business Systems
+3
+11/22/22
+01/09/23
+DAT/380 
+Advanced Database Architecture
+(Upper Division)
+
+Required Course of Study: Business Systems
+3
+01/10/23
+02/13/23
+DAT/390 
+Database Integration with Other Systems
+(Upper Division)
+
+Required Course of Study: Business Systems
+3
+02/14/23
+03/20/23
+CMGT/410 
+PROJECT PLANNING AND IMPLEMENTATION
+(Upper Division)
+
+Required Course of Study: Core Topics II
+3
+Program Requirements Summary ? 
+Category Summary
+
+
+
+
+
+Requirement Category
+Applied
+Scheduled
+Not Scheduled
+Total
+Required Course of Study
+0
+42
+3
+45
+Upper Division Information Systems and Technology Electives
+0
+18
+0
+18
+PSS General Education
+21
+21
+0
+42
+Electives
+0
+15
+0
+15
+Total
+21
+96
+3
+120
+Credit Summary
+
+
+
+
+
+Credit Level
+Applied
+Scheduled
+Not Scheduled
+Required
+Minimum Upper Division Credits
+0
+39
+3
+42
+Maximum Lower Division Credits
+21
+57
+0
+78
+Total
+21
+96
+3
+120
+Additional Requirements
+
+
+
+Requirement
+Activity
+Completed
+Math Proficiency
+COLLEGE ALGEBRA
+No
+English Proficiency
+CRITICAL READING AND COMPOSITION
+Yes
+This is the most current summary of your schedule and program credits, but is subject to change. The list of courses may include transfer coursework and activities from other institutions. Note that the program requirements may be displayed under slightly different headings than those contained in your Enrollment Agreement.
+
+
+
+
+
+Home
+Mission Statement
+Consumer Information
+Library
+Center for Writing Excellence
+Center for Mathematics Excellence
+Program
+Schedule and Grades
+Program Credits
+Transfer Credits
+Community Relations
+Contact Us
+Report a Problem
+Ask a Question
+Share a Thought
+Support
+Sitemap
+Downloads
+PhoenixConnect
+Overview
+People Directory
+Communities
+Groups 
+Blogs
+Guidelines & Tips
+Student StoreLog outClassroomAccount
+My Profile
+Change Address

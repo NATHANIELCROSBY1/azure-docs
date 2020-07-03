@@ -1,0 +1,85 @@
+ 46 tags
+Files
+Type
+Name
+Latest commit message
+Commit time
+docs
+StudentT Tweaks (#931)
+15 months ago
+examples
+Default Infer supported when no options provided (#781)
+3 years ago
+scripts
+Ensure forward slash is used when requiring ad on Windows.
+3 years ago
+src
+StudentT Tweaks (#931)
+15 months ago
+tests
+StudentT Tweaks (#931)
+15 months ago
+.eslintrc.js
+Use strict mode everywhere.
+3 years ago
+.eslintrc.wppl.js
+Use strict mode everywhere.
+3 years ago
+.gitignore
+Split up dists.ad.js.
+3 years ago
+.npmignore
+Ensure previously packed tarballs are not added to npm package.
+2 years ago
+.travis.yml
+Update Node versions exercised by CI.
+17 months ago
+CONTRIBUTING.md
+Update CONTRIBUTING.md
+3 years ago
+Gruntfile.js
+Use eslint.
+3 years ago
+LICENSE.md
+Update LICENSE.md
+5 years ago
+README.md
+Mention packages in the "quick start" section of the README.
+2 years ago
+package-lock.json
+0.9.15
+15 months ago
+package.json
+0.9.15
+15 months ago
+webppl
+Make command line args work for compiled programs.
+3 years ago
+README.md
+WebPPL Build Status Dependency Status
+Probabilistic programming for the web
+
+Quick start
+Install using nodejs:
+
+npm install -g webppl
+Run WebPPL programs:
+
+webppl myprogram.wppl
+Require a WebPPL package:
+
+webppl myprogram.wppl --require packageName
+See the packages section of our documentation for more information.
+
+Upgrade WebPPL:
+
+npm update -g webppl
+Documentation
+Read our docs at docs.webppl.org.
+
+License
+WebPPL is released under the MIT License.
+
+Contributions
+We encourage you to contribute to WebPPL! Check out our guidelines for contributors and join the webppl-dev mailing list.
+
